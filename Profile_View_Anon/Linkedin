@@ -2,3 +2,19 @@ POC
 #For this POC, I will use my own Linkedin Profile View in complete anonymous mode.
 
 #Step 1
+Copy the profile url you want to view anonymously.
+Something like this : -
+https://www.linkedin.com/in/adityasrivastava0703/
+
+#Step 2
+Visit this site and paste the profile url.
+https://search.google.com/test/mobile-friendly
+
+Pate and click "Test URL"
+Copy the full html code from profile.
+
+#Step 3
+Visit this site and paste the html code there
+https://codebeautify.org/htmlviewer/
+
+The click on "Run" and the profile is visible now.
